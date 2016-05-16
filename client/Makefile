@@ -1,4 +1,4 @@
-NAME				= srv
+NAME				= cli
 
 CC					= gcc
 FLAG				= -Wall -Werror -Wextra -pedantic
